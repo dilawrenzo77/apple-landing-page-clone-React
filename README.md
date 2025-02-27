@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+# Apple.com Landing Page Clone REACT
+This project is a simple non-responsive frontend clone of the Apple.com landing page, built using React. The goal of this project was to replicate the design and layout of Apple's official website while focusing on designing, clean code, and modern React practices. This is a purely frontend project, meaning no backend functionality is included.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Features
++ React Components: The page is built using reusable React components for better maintainability and scalability.
 
-In the project directory, you can run:
++ CSS Styling: Custom CSS is used to replicate the design of the Apple.com landing page
 
-### `npm start`
++ No External Libraries: The project does not rely on external UI libraries like Bootstrap or Material-UI, ensuring a lightweight and custom implementation.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
++ React: A JavaScript library for building user interfaces.
 
-### `npm test`
++ HTML5: For structuring the content of the landing page.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
++ CSS: For styling and animations.
 
-### `npm run build`
++ JavaScript (ES6+): For interactivity and dynamic content.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
++ Git: For version control and collaboration.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Setup Instructions
+### Prerequisites
+The latest versions
++ React
++ Git
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Installations
+### Instructions
+1. Clone This repo
+```
+git clone https://github.com/dilawrenzo77/apple-landing-page-clone-React.git
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+2. Navigate to the Project Directory:
 
-## Learn More
+```
+cd applelandingpage
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+3. Install Dependencies:
+```
+npm install
+```
+4. Start the Development Server:
+```
+npm start
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+5. Access application
+```
+http://localhost:3000
+```
+The project will automatically open in your default browser at http://localhost:3000. If it doesn't, you can manually navigate to this URL.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Products ScreenShots
+These are the screenshot images of the design of the web Project.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+![](./src/assets/project%20screenShots/pro1.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![](./src/assets/project%20screenShots/pro2.png)
 
-### Advanced Configuration
+![](./src/assets/project%20screenShots/pro3.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![](./src/assets/project%20screenShots/pro4.png)
 
-### Deployment
+![](./src/assets/project%20screenShots/pro5.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![](./src/assets/project%20screenShots/pro6.png)
 
-### `npm run build` fails to minify
+![](./src/assets/project%20screenShots/pro7.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![](./src/assets/project%20screenShots/pro8.png)
+
+
+## Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+
+2. Create a new branch for your feature or bugfix.
+
+3. Commit your changes.
+
+4. Push your branch and submit a pull request.
+
+## Acknowledgments
+Special thanks to the open-source community for providing the tools and libraries used in this project.
+
+Inspired by the design of Apple.com.
+
+## Contact
+If you have any questions, feedback, feel free to reach out:
+
+Email: mbatalawrence@gmail.com
+
+GitHub: [dilawrenzo77](https://github.com/dilawrenzo77)"# apple-landing-page-clone-React" 
