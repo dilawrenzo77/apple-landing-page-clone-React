@@ -4,7 +4,7 @@
     align-items: start;
     justify-content: center;
     height: calc(100vh - 2rem);
-    background: url("../assets/pro1.jpg");
+    background: url("/assets/pro1.jpg");
     background-size: cover;
     padding: 2rem 2rem;
     margin: 2rem 0rem;
